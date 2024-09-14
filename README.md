@@ -1,6 +1,6 @@
 # ACONEWS News Dashboard
 
-A modern, responsive News Dashboard built with React, Vite, and Tailwind CSS, fetching the latest headlines from the GNews API.
+A modern, responsive ACONEWS News Dashboard built with React, Vite, and Tailwind CSS, fetching the latest headlines from the GNews API.
 
 ## Prerequisites
 
@@ -15,7 +15,7 @@ To install ACONEWS News Dashboard, follow these steps:
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/news-dashboard.git
+   git clone https://github.com/tejasg910/new-app.git
    ```
 2. Navigate to the project directory
    ```
